@@ -1,0 +1,101 @@
+	Reveiw_text	Actual_sentiment	Computed_sentiment	Sentiment_Score
+1140	 " from the director of " the nightmare before chr	pos	pos	0.17765586356366564
+1120	okay , okay . maybe i wasn't in the mood to watch 	pos	pos	0.5927581902460273
+1916	come on hollywood , surprise me . stop giving us t	pos	pos	0.2047367314458518
+1226	if i were one of those arrogant critics who thinks	pos	pos	0.5146904564287382
+1807	the general's daughter will probably be the clever	pos	pos	0.3528759437164499
+1198	susan granger's review of " mulholland drive " ( u	pos	pos	0.033024210692449485
+1978	1 . he doesn't have a hard-to-decipher accent , 2 	pos	pos	0.3669804594833601
+1388	let me begin by saying that this is easily the wor	pos	pos	0.3782312853766556
+942	 " good will hunting " is two movies in one : an i	neg	neg	-0.3944922965840095
+277	the thirteenth floor , the third in what i would c	neg	neg	-0.0941780993902731
+797	armageddon , in itself , symbolizes everything tha	neg	pos	0.489071669061634
+573	not since attending an ingmar bergman retrospectiv	neg	neg	-0.32281812063395476
+75	damn those trailers . had it not been for the adve	neg	neg	-0.2307378844505853
+921	david mamet has long been my favorite screenwriter	neg	neg	-0.22221637976585534
+785	it's been a long time since walt disney has delive	neg	neg	-0.17668825973702956
+1846	there are some pretty impressive stars in lost in 	pos	pos	0.44064856305154193
+1668	susan granger's review of " session 9 " ( usa film	pos	neg	-0.10928548103001934
+1077	 " varsity blues " is the best film of 1999 thus f	pos	pos	0.43517819914232964
+1164	at first i was intrigued by the strange cast and o	pos	pos	0.22324768479390705
+95	call me crazy , but i don't see saving private rya	neg	neg	-0.26682914964146687
+446	when bulworth ended , i allowed myself a sigh of r	neg	neg	-0.4695526935114855
+1413	as a hot-shot defense attorney , kevin lomax ( kea	pos	neg	-0.14454903207446834
+1230	it is with some sad irony that i screened fright n	pos	pos	0.24950367840189058
+1881	supposedly based on a true story in which the brit	pos	pos	0.15569482398314632
+1941	if you've been following william fichtner's career	pos	pos	0.31275478751275826
+1124	 * * * the following review contains spoilers * * 	pos	pos	0.2191788310782815
+1822	man , this was one wierd movie . similar to conspi	pos	pos	0.2693077933532196
+337	after the terminally bleak reservoir dogs and the 	neg	neg	-0.45493354681218534
+530	no , i did not read the novel by thomas hardy , " 	neg	neg	-0.3544607729186994
+376	hollywood has really done the whole dracula thing 	neg	neg	-0.012399291062415718
+776	 " when will the devil take me ? " he asks rhetori	neg	neg	-0.12970399388266757
+487	jack nicholson has a funny way of playing characte	neg	neg	-0.22187678507739583
+455	having not seen , " who framed roger rabbit " in o	neg	neg	-0.019889219630429278
+966	buffalo ? 66 is a very rarely known movie that sta	neg	neg	-0.03019660686968484
+939	one way of telling if a film is good or not is by 	neg	neg	-0.2911969547678783
+1719	the crown jewel of 1970's irwin allen disaster mov	pos	pos	0.012946404797110456
+627	bruce barth's mellow piano plays in the background	neg	neg	-0.22962975229079924
+1450	 " first rule of fight club is , don't talk about 	pos	pos	0.0491630347621847
+69	martin scorsese's triumphant adaptation of edith w	neg	neg	-0.6116121067512159
+1046	the rapid-fire formula that worked so well in airp	pos	pos	0.2706121986677748
+968	the saint was actually a little better than i expe	neg	pos	0.06414623195095093
+191	the sheer horrific audacity of the nazi plan to ex	neg	neg	-0.40344821755096966
+1650	die hard 2 is an altogether unfortunate fiasco , i	pos	pos	0.35645868723158614
+742	well , i know that stallone is 50 years old now , 	neg	pos	0.15697242554256502
+1442	the original babe gets my vote as the best family 	pos	neg	-0.01062430853256735
+957	 " gattaca " represents a solid breakthrough in th	neg	neg	-0.5275425233764953
+411	i'm not quite sure how best to go about writing th	neg	neg	-0.2663228749702829
+1670	by starring in amy heckerling's " clueless " two s	pos	pos	0.22846088816620136
+1216	i came to an epiphany while watching the bachelor 	pos	pos	0.17190665207386768
+1529	 " the animal " is a marginally inspired comedy th	pos	pos	0.27002640725545224
+206	call it touched by a demon . gregory hoblit's fall	neg	neg	-0.10272255528168561
+539	naturally , at the core of leon gast's " when we w	neg	neg	-0.2402524688625508
+1168	 " the 44 caliber killer has struck again . " star	pos	pos	0.0780825047920119
+104	the event of events is upon us . people have waite	neg	neg	-0.48713028962882976
+151	seen may 31 , 1999 on home video ( rented ) . one 	neg	neg	-0.12944045412973287
+545	a miracle of filmmaking , " some like it hot " is 	neg	neg	-0.18747575938138134
+1764	you don't look at a ren ? magritte painting and se	pos	pos	0.44443847432140393
+309	larry flynt is a self proclaimed smut pedlar and t	neg	neg	-0.5672508283148471
+1390	depending on your degree of cinematic acumen , las	pos	pos	0.060163007500300514
+687	a costume drama set in the 1500s , england , eliza	neg	neg	-0.38128274356968206
+28	the happy bastard's 30-second review : american pi	neg	pos	0.023946051359173437
+1628	`the bachelor' is one of the best terrible movies 	pos	pos	0.34873362998718843
+820	no , it is not a bad film , in fact it is so good 	neg	neg	-0.28099883955957566
+1132	the premise of turbulence is i'm sure very familia	pos	pos	0.2899202097484894
+509	a fully loaded entertainment review - website comi	neg	pos	0.2914672197804516
+1115	it used to be that not just anyone could become a 	pos	pos	0.29170538910904525
+389	now , lets first look into the history of shark fi	neg	pos	0.15924387824314912
+701	jamaica is a hot vacation spot . the exchange rate	neg	neg	-0.10387402295164588
+415	 " the faculty , " the heavily-hyped and advertise	neg	pos	0.13243345756823277
+460	roberto benigni is a clown in the tradition of cha	neg	neg	-0.6232130832677283
+524	jerry springer has got nothing on " wild things . 	neg	pos	0.18111026735252478
+483	 " he's back , and it's about time . " was the mot	neg	pos	0.25412309487909857
+523	martin scorsese's films used to intimidate me . be	neg	neg	-0.4950207773059712
+1629	for those interested in the true spirit of moviema	pos	pos	0.2034249277989869
+1229	in " the astronaut's wife , " charlize theron play	pos	pos	0.3107287444373742
+1633	this movie about two dysfunctional families never 	pos	neg	-0.022044151882056884
+1179	stallone attempts to 'act' in this cop drama . the	pos	pos	0.24171946227772512
+1611	the premise of this movie is , well , pretty far-f	pos	pos	0.2804416902735997
+1894	as bad as " mimic " was , it definitly scared me .	pos	pos	0.38106183929194803
+782	well , i'll admit when i first heard about this fi	neg	pos	0.2106131521233512
+1888	years ago , robin williams made _jumanji_ , a bril	pos	pos	0.14093858318949887
+404	one year has passed since the last time we saw the	neg	pos	0.04066037290662894
+311	 " i've been told by several people , 'you're old 	neg	neg	-0.17692880115406112
+775	you've got to love disney . no matter what they se	neg	neg	-0.5928688357495625
+377	hollywood is a pimp . a fat , cigar-smoking chump 	neg	pos	0.05423529266251231
+10	this christmas , little ralphie parker ( peter bil	neg	neg	-0.21585579100700214
+496	 " being john malkovich " is the type of film we n	neg	neg	-0.13727884052734757
+761	of the major horror sub-genres , vampire movies ar	neg	pos	0.3007208300344566
+777	capsule : a short punchy action sequel to the two 	neg	pos	0.25668960322217205
+540	synopsis : it's 1977 in a small italian american n	neg	pos	0.06032189266185689
+1564	cradle will rock is the latest effort from directo	pos	pos	0.21976300144162314
+1710	starship troopers is a bad movie . i mean , a real	pos	pos	0.23468148766397295
+1022	 " showgirls " is the first big-budget , big-studi	pos	pos	0.4349853688544181
+1835	this talky , terribly-plotted thriller stars alec 	pos	pos	0.11750180294286428
+667	an astonishingly difficult movie to watch , the la	neg	neg	-0.3515654056492188
+1277	i think that saying that the x-files is one of thi	pos	neg	-0.04267716862501497
+1207	the second serial-killer thriller of the month is 	pos	pos	0.23425710162824176
+1208	a movie like mortal kombat : annihilation works ( 	pos	pos	0.4466512859406516
+408	in intolerance , d . w . griffith told four differ	neg	neg	-0.0593606414854686
+1887	 " shagadellic ! " , " groovy , baby ! "  " smashi	pos	pos	0.3233643011912236
